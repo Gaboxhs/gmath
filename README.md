@@ -30,4 +30,15 @@ cmake --build build
 
 > `sqrt(double a)` returns the square root of a
 
+&nbsp;
+
+## *Constants*
+* Math constants at Constants.h
+
+> `PI (π) = 3.141592653589793`
+
+> `EULER'S NUMBER (e) = 2.718281828459045` 
+
+> `GOLDEN RATIO (Φ) = 1.618033988749895`
+
 
